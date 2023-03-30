@@ -1,0 +1,13 @@
+#table-siswa {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+}
+
+#nama-siswa {
+    color: green;
+}
